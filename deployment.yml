@@ -11,7 +11,7 @@ sepc:
       metadata:
         labels:
           app.kubernetes.io/name: web-deploy
-      epec:
+      spec:
         containers:
         - name: nginx
           image: nginx:1.24
