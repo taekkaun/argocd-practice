@@ -8,4 +8,4 @@ spec:
   type: ClusterIP
   ports:
   - protocol: TCP
-    prot: 80
+    port: 80
